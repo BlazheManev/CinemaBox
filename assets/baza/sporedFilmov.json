@@ -1,0 +1,897 @@
+[
+    {
+        "sloNaslov": "Lil, Lil, krokodil - sinhronizirano",
+        "originalniNaslov": "Lyle, Lyle, Crocodile",
+        "povezava": "https://www.kolosej.si/filmi/film/lil-lil-krokodil/",
+        "vrsta": "PUSTOLOVŠČINA",
+        "cas": "1h 46min / 106min",
+        "drzava": "ZDA",
+        "jezik": "slovenščina",
+        "scenarij": "Will Davies Bernard Waber",
+        "rezija": "Josh Gordon, Will Speck",
+        "slika": "https://www.kolosej.si/media/movies/2022/08/11/lil-lil-krokodil-poster.jpg",
+        "opis": "Igrani film, posnet po otroški knjigi, o krokodilu, ki živi v New Yorku.",
+        "komentarji": [],
+        "ocena": [],
+        "dvorana": [
+            {
+                "ime": "dvorana 1",
+                "ura": "14:00",
+                "datum": "16.1.2023",
+                "prostaMesta": 450
+            },
+            {
+                "ime": "dvorana 1",
+                "ura": "14:00",
+                "datum": "17.1.2023",
+                "prostaMesta": 450
+            },
+            {
+                "ime": "dvorana 2",
+                "ura": "14:00",
+                "datum": "18.1.2023",
+                "prostaMesta": 350
+            },
+            {
+                "ime": "dvorana 2",
+                "ura": "14:00",
+                "datum": "19.1.2023",
+                "prostaMesta": 350
+            },
+            {
+                "ime": "dvorana 2",
+                "ura": "14:00",
+                "datum": "20.1.2023",
+                "prostaMesta": 350
+            },
+            {
+                "ime": "dvorana 2",
+                "ura": "10:00",
+                "datum": "21.1.2023",
+                "prostaMesta": 350
+            },
+            {
+                "ime": "dvorana 2",
+                "ura": "10:00",
+                "datum": "22.1.2023",
+                "prostaMesta": 350
+            },
+            {
+                "ime": "dvorana 3",
+                "ura": "14:00",
+                "datum": "21.1.2023",
+                "prostaMesta": 200
+            },
+            {
+                "ime": "dvorana 3",
+                "ura": "14:00",
+                "datum": "22.1.2023",
+                "prostaMesta": 200
+            }
+        ]
+    },
+    {
+        "sloNaslov": "Poroka za umret",
+        "originalniNaslov": "Shotgun Weeding",
+        "povezava": "https://www.kolosej.si/filmi/film/poroka-za-umret/",
+        "vrsta": "KOMEDIJA",
+        "cas": "1h 40min / 100min",
+        "drzava": "ZDA",
+        "jezik": "angleščina",
+        "scenarij": "Mark Hammer",
+        "rezija": "Jason Moore",
+        "igralci": "Jennifer lopez, Jennifer Coolidge, Josh Duhamel",
+        "slika": "https://www.kolosej.si/media/movies/2022/10/10/POSTER.jpg",
+        "opis": "V filmu POROKA ZA UMRET (Shotgun Wedding) Darcy (Jennifer Lopez) in Tom (Josh Duhamel) za svojo sanjsko poroko zbereta svoji simpaticni vendar zelo vsiljivi in samozavestni družini ne prelepem otoku, kjer pa oba zacenjata dobivati pomisleke. In ce to ni dovolj velika grožnja nepozabnemu praznovanju, so nenadoma ogrožena življenja vseh, saj prav vsi postanejo talci teroristicnih piratov. 'Dokler naju smrt ne loci' dobi povsem nov pomen v tej komicni in adrenalinski pustolovšcini, kjer morata Darcy in Tom rešiti svoje ljubljene, ce se prej ne pobijejo med seboj.",
+        "komentarji": [],
+        "ocena": [],
+        "dvorana": [
+            {
+                "ime": "dvorana 4",
+                "ura": "18:00",
+                "datum": "16.1.2023",
+                "prostaMesta": 100
+            },
+            {
+                "ime": "dvorana 4",
+                "ura": "20:00",
+                "datum": "16.1.2023",
+                "prostaMesta": 100
+            },
+            {
+                "ime": "dvorana 4",
+                "ura": "18:00",
+                "datum": "17.1.2023",
+                "prostaMesta": 100
+            },
+            {
+                "ime": "dvorana 4",
+                "ura": "20:00",
+                "datum": "17.1.2023",
+                "prostaMesta": 100
+            },
+            {
+                "ime": "dvorana 4",
+                "ura": "18:00",
+                "datum": "18.1.2023",
+                "prostaMesta": 100
+            },
+            {
+                "ime": "dvorana 4",
+                "ura": "20:00",
+                "datum": "18.1.2023",
+                "prostaMesta": 100
+            },
+            {
+                "ime": "dvorana 4",
+                "ura": "18:00",
+                "datum": "19.1.2023",
+                "prostaMesta": 100
+            },
+            {
+                "ime": "dvorana 4",
+                "ura": "20:00",
+                "datum": "19.1.2023",
+                "prostaMesta": 100
+            },
+            {
+                "ime": "dvorana 4",
+                "ura": "18:00",
+                "datum": "20.1.2023",
+                "prostaMesta": 100
+            },
+            {
+                "ime": "dvorana 3",
+                "ura": "20:00",
+                "datum": "20.1.2023",
+                "prostaMesta": 200
+            },
+            {
+                "ime": "dvorana 2",
+                "ura": "20:00",
+                "datum": "21.1.2023",
+                "prostaMesta": 350
+            },
+            {
+                "ime": "dvorana 4",
+                "ura": "16:00",
+                "datum": "21.1.2023",
+                "prostaMesta": 100
+            },
+            {
+                "ime": "dvorana 2",
+                "ura": "20:00",
+                "datum": "22.1.2023",
+                "prostaMesta": 350
+            },
+            {
+                "ime": "dvorana 4",
+                "ura": "16:00",
+                "datum": "22.1.2023",
+                "prostaMesta": 100
+            }
+        ]
+    },
+    {
+        "sloNaslov": "Avatar: Pot vode",
+        "originalniNaslov": "Avatar: The Way of Water",
+        "povezava": "https://www.kolosej.si/filmi/film/avatar-pot-vode_2/",
+        "vrsta": "DOMIŠLJIJSKI",
+        "cas": "3h 10min / 190min",
+        "drzava": "ZDA",
+        "jezik": "angleščina",
+        "scenarij": "James Cameron, Josh Friedman",
+        "rezija": "James Cameron",
+        "igralci": "Michelle yeoh, Zoe Saldana, Sam Worthington",
+        "slika": "https://www.kolosej.si/media/movies/2022/12/08/200x275_AVATAR_KOL_SLO.jpg",
+        "opis": "V glavni vlogi se vraca Sam Worthington, ki bo ponovno zaigral Jaka Sullyja. Njegovo sorodno dušo bo ponovno zaigrala Zoe Saldana, vracata pa se tudi Sigourney Weaver in Stephen Lang. V zasedbo so dodani tudi Kate Winslet, Vin Diesel, Michele Yeoh in Cliff Curtis, v za zdaj še neznanih vlogah.",
+        "komentarji": [],
+        "ocena": [],
+        "dvorana": [
+            {
+                "ime": "dvorana 5",
+                "ura": "18:00",
+                "datum": "16.1.2023",
+                "prostaMesta": 100
+            },
+            {
+                "ime": "dvorana 2",
+                "ura": "20:00",
+                "datum": "16.1.2023",
+                "prostaMesta": 350
+            },
+            {
+                "ime": "dvorana 5",
+                "ura": "18:00",
+                "datum": "17.1.2023",
+                "prostaMesta": 100
+            },
+            {
+                "ime": "dvorana 2",
+                "ura": "20:00",
+                "datum": "17.1.2023",
+                "prostaMesta": 350
+            },
+            {
+                "ime": "dvorana 5",
+                "ura": "18:00",
+                "datum": "18.1.2023",
+                "prostaMesta": 100
+            },
+            {
+                "ime": "dvorana 2",
+                "ura": "20:00",
+                "datum": "18.1.2023",
+                "prostaMesta": 350
+            },
+            {
+                "ime": "dvorana 5",
+                "ura": "18:00",
+                "datum": "19.1.2023",
+                "prostaMesta": 100
+            },
+            {
+                "ime": "dvorana 2",
+                "ura": "20:00",
+                "datum": "19.1.2023",
+                "prostaMesta": 350
+            },
+            {
+                "ime": "dvorana 3",
+                "ura": "18:00",
+                "datum": "20.1.2023",
+                "prostaMesta": 200
+            },
+            {
+                "ime": "dvorana 1",
+                "ura": "20:00",
+                "datum": "20.1.2023",
+                "prostaMesta": 450
+            },
+            {
+                "ime": "dvorana 3",
+                "ura": "18:00",
+                "datum": "21.1.2023",
+                "prostaMesta": 200
+            },
+            {
+                "ime": "dvorana 1",
+                "ura": "20:00",
+                "datum": "21.1.2023",
+                "prostaMesta": 450
+            },
+            {
+                "ime": "dvorana 3",
+                "ura": "18:00",
+                "datum": "22.1.2023",
+                "prostaMesta": 200
+            },
+            {
+                "ime": "dvorana 1",
+                "ura": "20:00",
+                "datum": "22.1.2023",
+                "prostaMesta": 450
+            }
+        ]
+    },
+    {
+        "sloNaslov": "Avatar: Pot vode 3D",
+        "originalniNaslov": "Avatar: The Way of Water",
+        "povezava": "https://www.kolosej.si/filmi/film/avatar-pot-vode_2/",
+        "vrsta": "DOMIŠLJIJSKI",
+        "cas": "3h 10min / 190min",
+        "drzava": "ZDA",
+        "jezik": "angleščina",
+        "scenarij": "James Cameron, Josh Friedman",
+        "rezija": "James Cameron",
+        "igralci": "Michelle yeoh, Zoe Saldana, Sam Worthington",
+        "slika": "https://www.kolosej.si/media/movies/2022/12/08/200x275_AVATAR_KOL_SLO.jpg",
+        "opis": "V glavni vlogi se vraca Sam Worthington, ki bo ponovno zaigral Jaka Sullyja. Njegovo sorodno dušo bo ponovno zaigrala Zoe Saldana, vracata pa se tudi Sigourney Weaver in Stephen Lang. V zasedbo so dodani tudi Kate Winslet, Vin Diesel, Michele Yeoh in Cliff Curtis, v za zdaj še neznanih vlogah.",
+        "komentarji": [],
+        "ocena": [],
+        "dvorana": [
+            {
+                "ime": "dvorana 6",
+                "ura": "19:00",
+                "datum": "16.1.2023",
+                "prostaMesta": 100
+            },
+            {
+                "ime": "dvorana 6",
+                "ura": "19:00",
+                "datum": "17.1.2023",
+                "prostaMesta": 100
+            },
+            {
+                "ime": "dvorana 6",
+                "ura": "19:00",
+                "datum": "18.1.2023",
+                "prostaMesta": 100
+            },
+            {
+                "ime": "dvorana 6",
+                "ura": "19:00",
+                "datum": "19.1.2023",
+                "prostaMesta": 100
+            },
+            {
+                "ime": "dvorana 6",
+                "ura": "19:00",
+                "datum": "20.1.2023",
+                "prostaMesta": 100
+            },
+            {
+                "ime": "dvorana 6",
+                "ura": "16:00",
+                "datum": "21.1.2023",
+                "prostaMesta": 100
+            },
+            {
+                "ime": "dvorana 6",
+                "ura": "20:00",
+                "datum": "21.1.2023",
+                "prostaMesta": 100
+            },
+            {
+                "ime": "dvorana 6",
+                "ura": "16:00",
+                "datum": "22.1.2023",
+                "prostaMesta": 100
+            },
+            {
+                "ime": "dvorana 6",
+                "ura": "20:00",
+                "datum": "22.1.2023",
+                "prostaMesta": 100
+            }
+        ]
+    },
+    {
+        "sloNaslov": "Obuti maček: Zadnja želja (sinhronizirano)",
+        "originalniNaslov": "Puss in Boots: The Last Wish",
+        "povezava": "https://www.kolosej.si/filmi/film/obuti-macek-zadnja-zelja/",
+        "vrsta": "ANIMIRANA KOMIČNA PUSTOLOVŠČINA",
+        "cas": "1h 38min / 98min",
+        "drzava": "ZDA",
+        "jezik": "slovenščina",
+        "scenarij": "Paul Fisher",
+        "rezija": "Joel Crawford",
+        "slika": "https://www.kolosej.si/media/movies/2022/08/30/obuti-macek-poster.jpg",
+        "opis": "Letošnjo jesen se v kinematografe vrača vsem najljubši, ljubeči, romantičen in neustrašen maček v novi animirani pustolovščini Obuti maček: Zadnja želja. Ko Obuti maček ugotovi, da je zapravil osem življenj, se bo odpravil na epsko popotovanje, da si povrne vseh devet življenj. Dolgo pričakovano nadaljevanje uspešnice Obuti maček iz leta 2011, ki je bila nominirana za oskarja, je režiral Joel Crawford, produciral pa Mark Swift, kreativna ekipa, ki stoji za uspešnico DreamWorks Animation Krudovi: Nova doba. Izvršni producent filma je ustanovitelj in izvršni direktor Illumination Chris Meledandri. Svoja glasova sta glavnima likoma znova posodila nominiranca za oskarja Antonio Banderas in Salma Hayek, pridružijo pa se jima še Olivia Colman, Harvey Guillén, Samson Kayo, Wagner Moura, Anthony Mendez, John Mulaney, Florence Pugh, Da'Vine Joy Randolph, Ray Winstone in drugi.",
+        "komentarji": [],
+        "ocena": [],
+        "dvorana": [
+            {
+                "ime": "dvorana 1",
+                "ura": "16:00",
+                "datum": "16.1.2023",
+                "prostaMesta": 450
+            },
+            {
+                "ime": "dvorana 1",
+                "ura": "16:00",
+                "datum": "17.1.2023",
+                "prostaMesta": 450
+            },
+            {
+                "ime": "dvorana 1",
+                "ura": "16:00",
+                "datum": "18.1.2023",
+                "prostaMesta": 450
+            },
+            {
+                "ime": "dvorana 1",
+                "ura": "16:00",
+                "datum": "19.1.2023",
+                "prostaMesta": 450
+            },
+            {
+                "ime": "dvorana 1",
+                "ura": "16:00",
+                "datum": "20.1.2023",
+                "prostaMesta": 450
+            },
+            {
+                "ime": "dvorana 1",
+                "ura": "16:00",
+                "datum": "20.1.2023",
+                "prostaMesta": 450
+            },
+            {
+                "ime": "dvorana 1",
+                "ura": "14:00",
+                "datum": "21.1.2023",
+                "prostaMesta": 450
+            },
+            {
+                "ime": "dvorana 5",
+                "ura": "17:00",
+                "datum": "21.1.2023",
+                "prostaMesta": 100
+            },
+            {
+                "ime": "dvorana 1",
+                "ura": "14:00",
+                "datum": "22.1.2023",
+                "prostaMesta": 450
+            },
+            {
+                "ime": "dvorana 5",
+                "ura": "17:00",
+                "datum": "22.1.2023",
+                "prostaMesta": 100
+            }
+        ]
+    },
+    {
+        "sloNaslov": "Nasilna noč",
+        "originalniNaslov": "Violent Night",
+        "povezava": "https://www.kolosej.si/filmi/film/nasilna-noc/",
+        "vrsta": "AKCIJASKA KOMEDIJA",
+        "cas": "1h 54min / 114min",
+        "drzava": "ZDA",
+        "jezik": "angleščina",
+        "scenarij": "Pat Casey, Josh Miller",
+        "rezija": "Tommy Wirkola",
+        "igralci": "David Harbour, Cam Gigandet, Beverly D Angelo, John Leguizamo, Edi Patterson, Brendan Fletcher",
+        "slika": "https://www.kolosej.si/media/movies/2022/10/06/nasilna-no%C4%8D-poster.jpgPRAVI.jpg",
+        "opis": "Ko skupina plačancev na božični večer napade posestvo premožne družine, mora Božiček vskočiti, da reši dan.",
+        "komentarji": [],
+        "ocena": [],
+        "dvorana": [
+            {
+                "ime": "dvorana 1",
+                "ura": "20:00",
+                "datum": "19.1.2023",
+                "prostaMesta": 450
+            },
+            {
+                "ime": "dvorana 2",
+                "ura": "20:00",
+                "datum": "20.1.2023",
+                "prostaMesta": 350
+            },
+            {
+                "ime": "dvorana 3",
+                "ura": "20:00",
+                "datum": "21.1.2023",
+                "prostaMesta": 200
+            },
+            {
+                "ime": "dvorana 1",
+                "ura": "22:00",
+                "datum": "21.1.2023",
+                "prostaMesta": 450
+            },
+            {
+                "ime": "dvorana 3",
+                "ura": "20:00",
+                "datum": "22.1.2023",
+                "prostaMesta": 200
+            },
+            {
+                "ime": "dvorana 1",
+                "ura": "22:00",
+                "datum": "22.1.2023",
+                "prostaMesta": 450
+            }
+        ]
+    },
+    {
+        "sloNaslov": "Čudežni svet (sinhronizirano)",
+        "originalniNaslov": "Strange World",
+        "povezava": "https://www.kolosej.si/filmi/film/cudezni-svet/",
+        "vrsta": "DRUŽINSKI ANIMIRANI FILM",
+        "cas": "1h 42min / 102min",
+        "drzava": "ZDA",
+        "jezik": "slovenščina",
+        "scenarij": "Qui Nguyen",
+        "rezija": "Don Hall",
+        "slika": "https://www.kolosej.si/filmi/film/cudezni-svet/",
+        "opis": "Od ustvarjalcev uspešnice Ledeno kraljestvo prihaja nova akcijska pustolovščina ČUDEŽNI SVET. V animiranem filmu Čudežni svet bomo odpotovali globoko v neraziskan in malce nevaren svet, v katerem čudežna bitja čakajo legendarno družino raziskovalcev, Cladesove, ki so si med sabo tako različni, da ta raznolikost preti njihovi zadnji in hkrati najbolj pomembni misiji. Pod režijo novega animiranega filma Čudežni svet, se podpisuje Don Hall (dobitnik nagrade Oscar® za 'Veličastnih 6' ter 'Raya in poslednji zmaj'), scenarij je prispeval Qui Nguyen (koscenarist pri animaciji 'Raya in poslednji zmaj'), producent pa je Roy Conli (dobitnik nagrade Oscar® za 'Veličastnih 6' in 'Zlatolaska'). Režiser Don Hall je povedal, da so mu za inspiracijo pri tem filmu služile takoimenovane 'pulp' revije, popularni žanrski časopisi iz prve polovice 20. stoletja, ki so bili tiskani na poceni papirju. 'Užival sem v listanju izdaj pulp revij, ko sem odraščal', pravi Hall. 'To so bile prave pustolovščine, v katerih je skupina raziskovalcev odkrivala čaroben skriti svet in drevesna bitja. To je bila velika inspiracija pri ustvarjaju tega animiranega filma.'",
+        "komentarji": [],
+        "ocena": [],
+        "dvorana": [
+            {
+                "ime": "dvorana 1",
+                "ura": "19:00",
+                "datum": "16.1.2023",
+                "prostaMesta": 450
+            },
+            {
+                "ime": "dvorana 1",
+                "ura": "19:00",
+                "datum": "17.1.2023",
+                "prostaMesta": 450
+            },
+            {
+                "ime": "dvorana 2",
+                "ura": "19:00",
+                "datum": "18.1.2023",
+                "prostaMesta": 350
+            },
+            {
+                "ime": "dvorana 2",
+                "ura": "19:00",
+                "datum": "19.1.2023",
+                "prostaMesta": 350
+            },
+            {
+                "ime": "dvorana 5",
+                "ura": "17:00",
+                "datum": "20.1.2023",
+                "prostaMesta": 100
+            },
+            {
+                "ime": "dvorana 2",
+                "ura": "19:00",
+                "datum": "20.1.2023",
+                "prostaMesta": 350
+            },
+            {
+                "ime": "dvorana 2",
+                "ura": "16:00",
+                "datum": ".21.2023",
+                "prostaMesta": 350
+            },
+            {
+                "ime": "dvorana 2",
+                "ura": "19:00",
+                "datum": "21.1.2023",
+                "prostaMesta": 350
+            },
+            {
+                "ime": "dvorana 2",
+                "ura": "16:00",
+                "datum": "22.1.2023",
+                "prostaMesta": 350
+            },
+            {
+                "ime": "dvorana 2",
+                "ura": "19:00",
+                "datum": "22.1.2023",
+                "prostaMesta": 350
+            }
+        ]
+    },
+    {
+        "sloNaslov": "Kapa",
+        "originalniNaslov": "Kapa",
+        "povezava": "https://www.kolosej.si/filmi/film/kapa/",
+        "vrsta": "DRUŽINSKI",
+        "cas": "1h 26min / 86min",
+        "jezik": "slovenščina",
+        "scenarij": "Saša Eržen",
+        "igralci": "Gaj Črnič, Kaja Podreberšek, Ajda Smrekar, Mojca Fatur, Frano Mašković, René Štúr. V filmu igrajo tudi Klemen Slakonja, Zala Djuric, Mila Maksimović, Tilen Kolbe, Emil Kulović, Jernej Kuntner, Klemen Klemen, Jaka Fon, Lotos Vincenc Šparovec, Nina Valič, Primož Pirnat",
+        "slika": "https://www.kolosej.si/media/movies/2021/10/18/KAPA_Plakat_FINALE_SLO.jpg_NOVO.jpg",
+        "opis": "Prvi slovenski božični celovečerni film režiserja Slobodana Maksimovića (Nika, 2016) zgodbo o dečku, ki nima nič, in deklici, ki ima vse, preplete z močno vero v čudeže in jo poveže v topel, humoren in mestoma tudi napet film. Erik je devetletni deček, ki živi v mladinskem domu. Njegova edina vez s staršema je kapa, ki jo ima ves čas na glavi, saj mu jo je spletla mama. Ves čas se mora braniti pred dečkoma in starejšo deklico, ki ga izkoriščajo in zafrkavajo. Njegova edina božična želja je, da bi šel domov. Sedemletna Lučka prihaja iz premožne družine, ki ji lahko kupi vse. Le sestrice ne. In kužka, ki si ga želi za božično darilo. A čarobni čas praznikov pripravlja presenečenje za oba. Erik je v mladinskem domu izžreban, da božič preživi pri Lučkini družini. Otroka se tako znajdeta skupaj, ne da bi hotela. Lučka se zmrduje, Erik pa v njej vidi le razvajeno deklico. Sredi noči v dnevni sobi zalotita Božička. Po spletu okoliščin se skrijeta v njegov avto in kmalu se znajdeta na ulici. Začne se prava božična pustolovščina, ki v eni sami noči obema prinese izpolnitev želja, a ne čisto tako, kot sta pričakovala.",
+        "komentarji": [],
+        "ocena": [],
+        "dvorana": [
+            {
+                "ime": "dvorana 2",
+                "ura": "16:00",
+                "datum": "16.1.2023",
+                "prostaMesta": 350
+            },
+            {
+                "ime": "dvorana 2",
+                "ura": "16:00",
+                "datum": "17.1.2023",
+                "prostaMesta": 350
+            },
+            {
+                "ime": "dvorana 2",
+                "ura": "16:00",
+                "datum": "18.1.2023",
+                "prostaMesta": 350
+            },
+            {
+                "ime": "dvorana 2",
+                "ura": "16:00",
+                "datum": "19.1.2023",
+                "prostaMesta": 350
+            },
+            {
+                "ime": "dvorana 3",
+                "ura": "14:00",
+                "datum": "20.1.2023",
+                "prostaMesta": 350
+            },
+            {
+                "ime": "dvorana 3",
+                "ura": "16:00",
+                "datum": "20.1.2023",
+                "prostaMesta": 350
+            },
+            {
+                "ime": "dvorana 4",
+                "ura": "12:00",
+                "datum": "21.1.2023",
+                "prostaMesta": 100
+            },
+            {
+                "ime": "dvorana 1",
+                "ura": "17:00",
+                "datum": "21.1.2023",
+                "prostaMesta": 450
+            },
+            {
+                "ime": "dvorana 4",
+                "ura": "12:00",
+                "datum": "22.1.2023",
+                "prostaMesta": 350
+            },
+            {
+                "ime": "dvorana 1",
+                "ura": "17:00",
+                "datum": "22.1.2023",
+                "prostaMesta": 450
+            }
+        ]
+    },
+    {
+        "sloNaslov": "Pr’Hostar 2‰",
+        "originalniNaslov": "Pr’Hostar 2‰",
+        "povezava": "https://www.kolosej.si/filmi/film/prhostar-2/",
+        "vrsta": "KOMEDIJA",
+        "cas": "1h 21min / 81min",
+        "drzava": "Slovenija",
+        "jezik": "slovenščina",
+        "scenarij": " Dejan Krupić in Goran Hrvaćanin",
+        "rezija": "Luka Marčetić",
+        "igralci": "Dejan Krupić, Goran Hrvaćanin, Mario Ćulibrk, Niko Zagode, Aljoša Armuš, Haris Raković, Mateja Terseglav, Miha Brajnik",
+        "slika": "https://www.kolosej.si/media/movies/2022/10/11/hostar.jpg",
+        "opis": "PRIPRAVITE SE NA SMEH: Z dvema promiloma podkrepljena vrnitev gorenjskih gaunarjev Pred šestimi leti je domača satirična komedija Pr'Hostar postala neslutena uspešnica. Izvirne prigode in zabavni liki so poskrbeli, da je kinodvorane širom države preplavil smeh, medtem pa je film podiral rekord za rekordom in se zavihtel na prvo mesto najbolj gledanih celovečercev samostojne Slovenije. Sedaj je napočil čas, da priljubljena zgodba dobi nadaljevanje, pri čemer se lahko nadejamo, da bo PR'HOSTAR 2‰ stopnjo smeha povišal še za vsaj dva promila.",
+        "komentarji": [],
+        "ocena": [],
+        "dvorana": [
+            {
+                "ime": "dvorana 2",
+                "ura": "14:00",
+                "datum": "16.1.2023",
+                "prostaMesta": 350
+            },
+            {
+                "ime": "dvorana 2",
+                "ura": "14:00",
+                "datum": "17.1.2023",
+                "prostaMesta": 350
+            },
+            {
+                "ime": "dvorana 4",
+                "ura": "14:00",
+                "datum": "18.1.2023",
+                "prostaMesta": 100
+            },
+            {
+                "ime": "dvorana 4",
+                "ura": "14:00",
+                "datum": "19.1.2023",
+                "prostaMesta": 100
+            },
+            {
+                "ime": "dvorana 4",
+                "ura": "14:00",
+                "datum": "20.1.2023",
+                "prostaMesta": 100
+            },
+            {
+                "ime": "dvorana 2",
+                "ura": "14:00",
+                "datum": "21.1.2023",
+                "prostaMesta": 350
+            },
+            {
+                "ime": "dvorana 2",
+                "ura": "14:00",
+                "datum": "22.1.2023",
+                "prostaMesta": 350
+            }
+        ]
+    },
+    {
+        "sloNaslov": "I wanna dance with somebody:Film o Whitney Houston",
+        "originalniNaslov": "I Wanna Dance with Somebody",
+        "povezava": "https://www.kolosej.si/filmi/film/i-wanna-dance-with-somebody/",
+        "vrsta": "BIOGRAFIJA",
+        "cas": "2h 24min / 144min",
+        "drzava": "ZDA",
+        "jezik": "angleščina",
+        "scenarij": "Anthony McCarten",
+        "rezija": "Kasi Lemmons",
+        "igralci": "Stanley Tucci, Tamara Tunie, Naomi Ackie",
+        "slika": "https://www.kolosej.si/media/movies/2022/09/12/poster.jpg",
+        "opis": "Biografski film o eni največjih vokalistk vseh časov Whitney Houston.",
+        "komentarji": [],
+        "ocena": [],
+        "dvorana": [
+            {
+                "ime": "dvorana 2",
+                "ura": "17:00",
+                "datum": "16.1.2023",
+                "prostaMesta": 350
+            },
+            {
+                "ime": "dvorana 2",
+                "ura": "17:00",
+                "datum": "17.1.2023",
+                "prostaMesta": 350
+            },
+            {
+                "ime": "dvorana 2",
+                "ura": "17:00",
+                "datum": "18.1.2023",
+                "prostaMesta": 350
+            },
+            {
+                "ime": "dvorana 2",
+                "ura": "17:00",
+                "datum": "19.1.2023",
+                "prostaMesta": 350
+            },
+            {
+                "ime": "dvorana 1",
+                "ura": "16:00",
+                "datum": "20.1.2023",
+                "prostaMesta": 350
+            },
+            {
+                "ime": "dvorana 5",
+                "ura": "12:00",
+                "datum": "21.1.2023",
+                "prostaMesta": 100
+            },
+            {
+                "ime": "dvorana 4",
+                "ura": "18:00",
+                "datum": "21.1.2023",
+                "prostaMesta": 100
+            },
+            {
+                "ime": "dvorana 5",
+                "ura": "12:00",
+                "datum": "22.1.2023",
+                "prostaMesta": 100
+            },
+            {
+                "ime": "dvorana 4",
+                "ura": "18:00",
+                "datum": "22.1.2023",
+                "prostaMesta": 100
+            }
+        ]
+    },
+    {
+        "sloNaslov": "Poker face: Nevarna igra",
+        "originalniNaslov": "Poker Face",
+        "povezava": "https://www.kolosej.si/filmi/film/poker-face-nevarna-igra/",
+        "vrsta": "AKCIJSKA KRIMINALKA",
+        "cas": "1h 34min / 94min",
+        "drzava": "ZDA",
+        "jezik": "angleščina",
+        "scenarij": "Stephen M. Coates, Russell Crowe",
+        "rezija": "Russell Crowe",
+        "igralci": "Russell Crowe, Liam Hemsworh, RZA, Aden Young, Steve Bastoni, Daniel Macpherson, Brooke Satchwell",
+        "slika": "https://www.kolosej.si/media/movies/2022/11/29/200x275_POKER_FACE_kolosej_SLO.jpg",
+        "opis": "Vsak ima svojo mejo. Režiser Russel Crowe prinaša film Poker face: Nevarna igra.",
+        "komentarji": [],
+        "ocena": [],
+        "dvorana": [
+            {
+                "ime": "dvorana 3",
+                "ura": "19:00",
+                "datum": "16.1.2023",
+                "prostaMesta": 200
+            },
+            {
+                "ime": "dvorana 3",
+                "ura": "19:00",
+                "datum": "17.1.2023",
+                "prostaMesta": 200
+            },
+            {
+                "ime": "dvorana 3",
+                "ura": "19:00",
+                "datum": "18.1.2023",
+                "prostaMesta": 200
+            },
+            {
+                "ime": "dvorana 3",
+                "ura": "19:00",
+                "datum": "19.1.2023",
+                "prostaMesta": 200
+            },
+            {
+                "ime": "dvorana 5",
+                "ura": "20:00",
+                "datum": "20.1.2023",
+                "prostaMesta": 100
+            },
+            {
+                "ime": "dvorana 3",
+                "ura": "16:00",
+                "datum": "21.1.2023",
+                "prostaMesta": 200
+            },
+            {
+                "ime": "dvorana 1",
+                "ura": "18:00",
+                "datum": "21.1.2023",
+                "prostaMesta": 450
+            },
+            {
+                "ime": "dvorana 3",
+                "ura": "16:00",
+                "datum": "22.1.2023",
+                "prostaMesta": 200
+            },
+            {
+                "ime": "dvorana 1",
+                "ura": "18:00",
+                "datum": "22.1.2023",
+                "prostaMesta": 450
+            }
+        ]
+    },
+    {
+        "sloNaslov": "Operacija Fortune: Prevara stoletja",
+        "originalniNaslov": "Operation Fortune: Ruse de guerre",
+        "povezava": "https://www.kolosej.si/filmi/film/operacija-fortune-prevara-stoletja/",
+        "vrsta": "AKCIJSKA KOMEDIJA",
+        "cas": "1h 54min / 114min",
+        "drzava": "ZDA",
+        "jezik": "angleščina",
+        "scenarij": "Ivan Atkinson, Marn Davies, Guy Ritchie",
+        "rezija": "Guy Ritchie",
+        "igralci": "Aubrey Plaza, Jason Statham, Josh Hartnett",
+        "slika": "https://www.kolosej.si/media/movies/2022/11/10/B1_OPERATION_FORTUNE_SLO.jpgPOSTER.jpg",
+        "opis": "Pri tej operaciji vsak igra svojo vlogo. Akcijska komedija, v kateri igrajo Jason Statham, Aubrey Plaza, Josh Hartnett, Cary Elwes, Bugzy Malone in Hugh Grant. V filmu mora super vohun Orson Fortune (Jason Statham) izslediti in ustaviti prodajo nove tehnologije smrtonosnega orožja, ki jo uporablja milijarder, posrednik z orožjem Greg Simmonds (Hugh Grant). Fortune se združi z ekipo nekaterih najboljših svetovnih operativcev (Aubrey Plaza, Cary Elwes, Bugzy Malone) in zaposli najvecjega hollywoodskega filmskega zvezdnika Dannyja Francesca (Josh Hartnett), da jim pomaga na tej svetovni tajni misiji reševanja sveta.",
+        "komentarji": [],
+        "ocena": [],
+        "dvorana": [
+            {
+                "ime": "dvorana 3",
+                "ura": "17:00",
+                "datum": ".1.2023",
+                "prostaMesta": 200
+            },
+            {
+                "ime": "dvorana 3",
+                "ura": "17:00",
+                "datum": ".1.2023",
+                "prostaMesta": 200
+            },
+            {
+                "ime": "dvorana 3",
+                "ura": "17:00",
+                "datum": ".1.2023",
+                "prostaMesta": 200
+            },
+            {
+                "ime": "dvorana 3",
+                "ura": "17:00",
+                "datum": ".1.2023",
+                "prostaMesta": 200
+            },
+            {
+                "ime": "dvorana 2",
+                "ura": "19:00",
+                "datum": ".1.2023",
+                "prostaMesta": 100
+            },
+            {
+                "ime": "dvorana 5",
+                "ura": "19:00",
+                "datum": ".1.2023",
+                "prostaMesta": 100
+            },
+            {
+                "ime": "dvorana 5",
+                "ura": "19:00",
+                "datum": ".1.2023",
+                "prostaMesta": 100
+            }
+        ]
+    }
+]

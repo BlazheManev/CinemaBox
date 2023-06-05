@@ -1,0 +1,20 @@
+Baza:
+
+~arhivFilmov~
+(sloNaslov, originalniNaslov, povezava, vrsta, cas, drzava, jezik, scenarij, rezija, igralci, slika, ,opis, komentarji [["UID", "komentar"],["UID", "komentar"]],  ocena ["ocena1", "ocena2"] ) 
+//ob komentiranju fima se shrani UID in komentar v array array-ev
+//ocene se shranijo v array in koncna ocena se izračuna ob izpisu
+//ima tiste podatke ki so znani/na razpolago
+
+~sporedFilmov~
+//vse enako kot pri filmih v arhivFilmov
+(dvorana [["ime dvorane", "ura", "datum", "prostaMesta"],["ime dvorane", "ura", "datum","prostaMesta"]])
+// dovrana, shranimo ime dvorane, uro in datum, na zacetku so prostaMesta enaka stevilu mest v dvorani ali pa array z 0, ki se ob rezervaciji spremenijo v 1
+
+//ne bomo uporabili
+~dvorana~
+(ime, stSedezev)
+
+~likes~
+(UID, filmi [["link filma", "privatni komentar"],["ime filma", "privatni komentar"]]
+//shranimo unikatni id uporabnika in v array shranimo link do filma in komentar, ki je viden le uporabniku
